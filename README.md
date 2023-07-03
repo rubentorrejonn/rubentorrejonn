@@ -1,5 +1,5 @@
 <h2> Hi, I'm Rubén Rodríguez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 <p><em>Technician in Microcomputer Systems and Networks at <a href="https://www.educa2.madrid.org/web/centro.ies.reyfernando.sanfernando">Rey Fernando VI </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 [![Twitter: Rubentorrejonnn](https://img.shields.io/twitter/follow/Rubentorrejonnn?style=social)](https://twitter.com/Rubentorrejonnn)
