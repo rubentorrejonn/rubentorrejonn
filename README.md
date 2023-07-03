@@ -11,7 +11,7 @@
 
 ```javascript
 const rubentorrejonn = {
-  pronouns: he" | "him",
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Bash, Python, Java],
   tools: [],
 
